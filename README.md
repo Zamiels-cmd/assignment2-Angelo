@@ -3,6 +3,7 @@
 ## Likes food from Subway
 
 It's right next to town square **Eat Fresh**
+
 ---
 ## Ordered List
 NW Missouri Regional Airport
