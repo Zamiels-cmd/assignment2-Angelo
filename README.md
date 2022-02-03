@@ -35,6 +35,6 @@ Activities
 
 ---
 ## Pithy Quotes
->All first order linear differiential equations are solvable.
->However, the first statement doesn't define solvable.
+>All first order linear differiential equations are solvable.\
+>However, the first statement doesn't define solvable.\
 *David Angelo*
