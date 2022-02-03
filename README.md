@@ -32,3 +32,9 @@ Activities
 |Reading|Anywhere|$0|
 |Eating Subway|Subway|$5-$20|
 |Walking|Anywhere|$0|
+
+---
+## Pithy Quotes
+>All first order linear differiential equations are solvable.
+>However, the first statement doesn't define solvable.
+*David Angelo*
