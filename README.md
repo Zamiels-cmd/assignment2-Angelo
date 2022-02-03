@@ -18,3 +18,5 @@ NW Missouri Regional Airport
 * Chips
 * Cookies
 * Water
+
+[More about me](AboutMe.md)
