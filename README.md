@@ -22,9 +22,9 @@ What to get
 
 [More about me](AboutMe.md)
 ___
-##Tables
+## Tables
 
-Extra Curricular Activities
+Activities
 
 |Activity|location|cost|
 |---|---|---|
